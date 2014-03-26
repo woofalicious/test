@@ -1,5 +1,3 @@
-test
-====
 #player,#player a{ color:#fff; }
 #player{ background:url(sizerAndVol.png); background-position:bottom; }
 #player .mainImage{ background:url(main.png); }
